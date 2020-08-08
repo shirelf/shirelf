@@ -9,6 +9,5 @@
 
 - 📫 How to reach me: shirelfanbaum@gmail.com
 
-- ⚡ Fun fact: coming soon
 
 
