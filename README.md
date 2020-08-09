@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**shirelf/shirelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🎓 I am a 3rd year CS student looking for a software engineering position. 
 - ✈️ I gained extensive project management experience multitasking and planning abilities in my service as an officer in the IAF. 
